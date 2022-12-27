@@ -1,0 +1,27 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direcion: column;
+  align-items: center;
+  height: 100vh;
+}
+
+.con {
+  background: greenyellow;
+  width: max-content;
+  padding: 1px 40px;
+  border-radius: 10px;
+  margin: auto;
+}
+
+span {
+  background: greenyellow;
+}
